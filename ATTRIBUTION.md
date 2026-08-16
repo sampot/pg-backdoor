@@ -15,3 +15,7 @@
 
 ## 類型
 - Immersive sim：同一關多解（偷／騙／打／駭）。
+
+## Original release work
+
+The interface graphics, canvas art, synthesized music, and sound effects in this release are original procedural work created for **後門任務**. The third-party packs listed above remain bundled for provenance but are not loaded at runtime.
