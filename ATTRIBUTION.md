@@ -1,21 +1,23 @@
-# Attribution（pg-backdoor）
+# Attribution
 
-本遊戲使用以下資源（即使 CC0 仍署名）：
+本遊戲素材拷貝自 Playgrounds 維護者本機 [`game-assets`](https://github.com/sampot/playgrounds/tree/main/game-assets) 庫；**即使 CC0 亦署名**（專案慣例）。
 
 ## 美術
-- Kenney.nl packs（CC0）— 見 `assets/licenses/` 與 [game-assets/ATTRIBUTION.md](https://github.com/sampot/playgrounds/blob/main/game-assets/ATTRIBUTION.md)
-- 角色／圖示依類型取自 Toon Characters、Sports Pack、Pixel Platformer、Pixel Shmup、Playing Cards、Boardgame Pack、Food Kit、Fish Pack 等
+
+- **Top-down Shooter** — Kenney Vleugels — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — https://kenney.nl/assets/top-down-shooter — 玩家／保全精靈
+- **Roguelike Modern City** — Kenney Vleugels — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — https://kenney.nl/assets/roguelike-modern-city — 地磚／場景
+- **Game Icons** — Kenney Vleugels — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — https://kenney.nl/assets/game-icons — 金庫／出口圖示
 
 ## 音效
-- Kenney UI Audio、Impact Sounds、Casino Audio、RPG Audio（CC0）
+
+- **Impact Sounds** — Kenney — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — https://kenney.nl/assets/impact-sounds — 腳步／出拳
+- **Digital Audio** — Kenney — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — https://kenney.nl/assets/digital-audio — 駭入／警報／勝敗
+- **Interface Sounds** — Kenney — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — https://kenney.nl/assets/interface-sounds — UI
+- **RPG Audio** — Kenney — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — https://kenney.nl/assets/rpg-audio — 門／說服
+- **Sci-fi Sounds** — Kenney — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — https://kenney.nl/assets/sci-fi-sounds — 暴露提示
 
 ## 音樂
-- Dylann Taylor — BLIPPY BITS（Loop）https://dylanntaylor.itch.io/blippy-bits
-- HydroGene — High Quality 16-bit RPG Music（部分策略／RPG 曲）https://hydrogene.itch.io/high-quality-16bit-music
 
-## 類型
-- Immersive sim：同一關多解（偷／騙／打／駭）。
+- **BLIPPY BITS** — Dylann Taylor — 依 pack `License.txt` — https://dylanntaylor.itch.io/blippy-bits — 潛行／警戒 BGM loop
 
-## Original release work
-
-The interface graphics, canvas art, synthesized music, and sound effects in this release are original procedural work created for **後門任務**. The third-party packs listed above remain bundled for provenance but are not loaded at runtime.
+完整授權文字見 `assets/licenses/`。
